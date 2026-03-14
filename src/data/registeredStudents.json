@@ -1,8 +1,78 @@
 [
   {
-    "reg": "123",
-    "name": "Test Student",
-    "event": "Logo Design",
-    "category": "Winner"
+    "id": "622725149003",
+    "name": "R. Iniyash Sarma",
+    "dept": "B.E. (CSE-CS)",
+    "cert_type": "winner",
+    "file": "622725149003.png"
+  },
+  {
+    "id": "622724243003",
+    "name": "V. Ezhilarasi",
+    "dept": "B.Tech (AI & DS)",
+    "cert_type": "winner",
+    "file": "622724243003.png",
+    "has_second_cert": true,
+    "file_2": "622724243003_2.png"
+  },
+  {
+    "id": "622724205009",
+    "name": "M. Mothil",
+    "dept": "B.Tech (IT)",
+    "cert_type": "winner",
+    "file": "622724205009.png",
+    "has_second_cert": true,
+    "file_2": "622724205009_2.png"
+  },
+  {
+    "id": "622724243001",
+    "name": "E. Dhaakshayani",
+    "dept": "B.Tech (AI & DS)",
+    "cert_type": "winner",
+    "file": "622724243001.png"
+  },
+  {
+    "id": "622723205006",
+    "name": "M. Kaviya",
+    "dept": "B.Tech (IT)",
+    "cert_type": "winner",
+    "file": "622723205006.png"
+  },
+  {
+    "id": "622725104027",
+    "name": "B. Maheshwari",
+    "dept": "B.E. (CSE)",
+    "cert_type": "winner",
+    "file": "622725104027.png"
+  },
+  {
+    "id": "622724104020",
+    "name": "N. Thanigaivel",
+    "dept": "B.E. (CSE)",
+    "cert_type": "winner",
+    "file": "622724104020.png"
+  },
+  {
+    "id": "622724149006",
+    "name": "K. Nishalini",
+    "dept": "B.E. (CSE-CS)",
+    "cert_type": "winner",
+    "file": "622724149006.png"
+  },
+  {
+    "id": "622723149001",
+    "name": "C. Abinaya",
+    "dept": "B.E. (CSE-CS)",
+    "cert_type": "winner",
+    "file": "622723149001.png"
+  },
+  {
+    "id": "622723205011",
+    "name": "C. Ranjitha",
+    "dept": "B.Tech (IT)",
+    "cert_type": "winner",
+    "file": "622723205011.png",
+    "has_second_cert": true,
+    "file_2": "622723205011_2.png"
   }
 ]
